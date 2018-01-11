@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+只是另一个仓库
+你好，小红帽
